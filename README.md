@@ -1,5 +1,5 @@
 # Emotion-Shift Detector using BERT
-
+ 
 A robust emotion analysis system that leverages BERT transformers to detect and analyze emotional transitions in conversations. Built with support for the GoEmotions dataset, the system provides real-time emotion detection and comprehensive conversation analysis.
 
 ## Features
